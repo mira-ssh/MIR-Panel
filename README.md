@@ -11,7 +11,7 @@ A lightweight and powerful web panel for bypassing advanced DPI filtering system
 
 ## 🛠️ Installation
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh](https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh)
+bash <(curl -Ls [https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh]
 ```
 ---
 ## ⚠️ Disclaimer
