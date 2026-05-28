@@ -18,7 +18,7 @@
 
 ```bash
 bash <(curl -Ls [https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh](https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh))
-📋 راهنمای جامع پروژه
+## 📋 راهنمای جامع پروژه
 ⚡ امکانات
 دور زدن DPI با تکه‌تکه کردن پکت‌ها
 
@@ -26,18 +26,18 @@ bash <(curl -Ls [https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/insta
 
 عیب‌یابی خودکار (Watchdog)
 
-⚙️ تنظیمات
+## ⚙️ تنظیمات
 دسترسی به پنل: http://Your-Server-IP:2096
 
 اتصال به Cloudflare: استفاده از IP تمیز جهت پایداری بالا.
 
-📱 کلاینت‌ها
+##‌📱 کلاینت‌ها
 سازگار با NapsternetV، v2rayNG و V2Box.
 
-⚠️ نکات امنیتی
+##‌⚠️ نکات امنیتی
 پسورد قدرتمند انتخاب کنید.
 
 پروژه جهت استفاده شخصی بهینه‌سازی شده است.
 
-🤝 درباره پروژه
+## 🤝 درباره پروژه
 این پنل با ایده از ssh-tuunel و با همفکری و کمک هوش مصنوعی (Gemini) ارتقا یافته است. هدف اصلی از توسعه و انتشار این پروژه، یاری‌رسانی همگانی برای داشتن یک اتصال امن، پایدار و آزاد به اینترنت است.
