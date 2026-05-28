@@ -16,3 +16,8 @@ bash <(curl -Ls [https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/insta
 ---
 ## ⚠️ Disclaimer
 This tool is intended for personal use and to facilitate secure, stable, and free internet access. Please use strong credentials for your panel.
+
+---
+
+## 🤝 About the Project
+This panel was developed and customized with the collaborative assistance of AI (**Gemini**). The core idea is inspired by `ssh-tunnel` implementations. The primary goal of developing and releasing this project is to contribute to the community by providing a secure, stable, and censorship-free internet connection for all users. We believe in transparency and community-driven development.
