@@ -17,9 +17,9 @@
 ## 🛠️ آموزش نصب (Installation)
 
 برای نصب پنل روی سرور خام لینوکس (پیشنهاد می‌شود از Ubuntu 20.04 یا 22.04 استفاده کنید)، با کاربر `root` وارد سرور شده و دستور تک‌خطی زیر را در ترمینال کپی و اجرا کنید:
-
+```bash
 bash <(curl -Ls https://raw.githubusercontent.com/mira-ssh/MIR-Panel/main/install.sh)
-
+```
 ---
 
 ## ⚙️ مدیریت پورت‌ها
